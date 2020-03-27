@@ -1,0 +1,4 @@
+[submodule "be-the-hero"]
+	path = be-the-hero
+	url = https://github.com/raphaom35/be-the-hero.git
+	branch = master
