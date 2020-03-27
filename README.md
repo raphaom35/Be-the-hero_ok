@@ -1,16 +1,12 @@
 # Be-the-hero
-<div align="center">
+
 
  
-<img src="https://github.com/raphaom35/Be-the-hero_ok/blob/master/frontend/tela1.PNG" style="max-width: 20%;"> 
-<img src="https://github.com/raphaom35/Be-the-hero_ok/blob/master/frontend/tela2.PNG" style="max-width: 20%;">
-    </div>
+<img src="https://github.com/raphaom35/Be-the-hero_ok/blob/master/frontend/tela1.PNG" width=400 height=100/> 
+<img src="https://github.com/raphaom35/Be-the-hero_ok/blob/master/frontend/tela2.PNG" width=400 height=100/>
+       <center><br><div style="float:left; width:50%"><img src="https://github.com/raphaom35/Be-the-hero_ok/blob/master/frontend/tela1.PNG" width=400 height=100/></div><div style="float:left; width:50%"><img src="https://github.com/raphaom35/Be-the-hero_ok/blob/master/frontend/tela2.PNG" width=400 height=100/></div></center><br>
 
 
   <br/>
   <br/>
-  <div align="center">
-
-<img src="https://github.com/raphaom35/Be-the-hero_ok/blob/master/mobile/mobile.jpg" style="max-width: 20%;">
-<img src="https://github.com/raphaom35/Be-the-hero_ok/blob/master/mobile/mobile1.jpg" style="max-width: 20%;">
-   </div>
+  
